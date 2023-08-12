@@ -1,0 +1,26 @@
+{
+  _id: new ObjectId("64d6766dc6c053458702fa16"),
+  name: 'Abhey',
+  emailId: 'abhey20@navgurukul.org',
+  contactNumber: 8860105247,
+  about: 'MERN stack',
+  address: 'Okhla',
+  city: 'Delhi',
+  state: 'Delhi',
+  country: 'India',
+  zip: 110025,
+  password: '1234',
+  role: 1,
+  status: 1,
+  isReffered: 0,
+  createdDate: 1691776620896,
+  updatedDate: 1691776620896,
+  __v: 0
+} asdfghjkl 75
+
+{
+  "status": 1,
+  "msg": "success login",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFiaGV5MjBAbmF2Z3VydWt1bC5vcmciLCJyb2xlIjoxLCJpYXQiOjE2OTE4MDE1MzV9._BYgYPQEwoykteygXGPDjjP2jFz84qsQvz-yh_Uz--g",
+  "role": 1
+}
